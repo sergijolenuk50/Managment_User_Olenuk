@@ -1,0 +1,91 @@
+C:\Users\User\source\repos\ConsoleApp1_User\ConsoleApp1_User\obj\Debug\ConsoleApp1_User.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ConsoleApp1_User\ConsoleApp1_User\obj\Debug\ConsoleApp1_User.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\ConsoleApp1_User.exe.config
+C:\Users\User\source\repos\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\ConsoleApp1_User.exe
+C:\Users\User\source\repos\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\ConsoleApp1_User.pdb
+C:\Users\User\source\repos\ConsoleApp1_User\ConsoleApp1_User\obj\Debug\ConsoleApp1_User.exe
+C:\Users\User\source\repos\ConsoleApp1_User\ConsoleApp1_User\obj\Debug\ConsoleApp1_User.pdb
+E:\3 КУРС\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\x86\sqlite3.dll
+E:\3 КУРС\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\x64\sqlite3.dll
+E:\3 КУРС\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+E:\3 КУРС\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+E:\3 КУРС\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+E:\3 КУРС\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\ConsoleApp1_User.exe.config
+E:\3 КУРС\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\ConsoleApp1_User.exe
+E:\3 КУРС\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\ConsoleApp1_User.pdb
+E:\3 КУРС\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\3 КУРС\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\Microsoft.Data.Sqlite.dll
+E:\3 КУРС\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\SQLite-net.dll
+E:\3 КУРС\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+E:\3 КУРС\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\SQLitePCLRaw.core.dll
+E:\3 КУРС\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+E:\3 КУРС\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\3 КУРС\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\3 КУРС\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\System.Buffers.dll
+E:\3 КУРС\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\System.Memory.dll
+E:\3 КУРС\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\System.Numerics.Vectors.dll
+E:\3 КУРС\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\3 КУРС\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\System.Text.Encodings.Web.dll
+E:\3 КУРС\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\System.Text.Json.dll
+E:\3 КУРС\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\3 КУРС\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\System.ValueTuple.dll
+E:\3 КУРС\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\3 КУРС\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\Microsoft.Data.Sqlite.xml
+E:\3 КУРС\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\SQLite-net.xml
+E:\3 КУРС\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\System.Buffers.xml
+E:\3 КУРС\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\System.Memory.xml
+E:\3 КУРС\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\System.Numerics.Vectors.xml
+E:\3 КУРС\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\3 КУРС\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\System.Text.Encodings.Web.xml
+E:\3 КУРС\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\System.Text.Json.xml
+E:\3 КУРС\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\3 КУРС\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\System.ValueTuple.xml
+E:\3 КУРС\ConsoleApp1_User\ConsoleApp1_User\obj\Debug\ConsoleApp1_User.csproj.AssemblyReference.cache
+E:\3 КУРС\ConsoleApp1_User\ConsoleApp1_User\obj\Debug\ConsoleApp1_User.csproj.SuggestedBindingRedirects.cache
+E:\3 КУРС\ConsoleApp1_User\ConsoleApp1_User\obj\Debug\ConsoleApp1_User.exe.config
+E:\3 КУРС\ConsoleApp1_User\ConsoleApp1_User\obj\Debug\ConsoleApp1_User.csproj.CoreCompileInputs.cache
+E:\3 КУРС\ConsoleApp1_User\ConsoleApp1_User\obj\Debug\ConsoleApp1_User.csproj.CopyComplete
+E:\3 КУРС\ConsoleApp1_User\ConsoleApp1_User\obj\Debug\ConsoleApp1_User.exe
+E:\3 КУРС\ConsoleApp1_User\ConsoleApp1_User\obj\Debug\ConsoleApp1_User.pdb
+C:\Users\User\Desktop\навчання 3курс\Домашні роботи\Користувачі які заповнюються та записуються в файлC#\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\x86\sqlite3.dll
+C:\Users\User\Desktop\навчання 3курс\Домашні роботи\Користувачі які заповнюються та записуються в файлC#\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\x64\sqlite3.dll
+C:\Users\User\Desktop\навчання 3курс\Домашні роботи\Користувачі які заповнюються та записуються в файлC#\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\User\Desktop\навчання 3курс\Домашні роботи\Користувачі які заповнюються та записуються в файлC#\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\User\Desktop\навчання 3курс\Домашні роботи\Користувачі які заповнюються та записуються в файлC#\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\User\Desktop\навчання 3курс\Домашні роботи\Користувачі які заповнюються та записуються в файлC#\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\ConsoleApp1_User.exe.config
+C:\Users\User\Desktop\навчання 3курс\Домашні роботи\Користувачі які заповнюються та записуються в файлC#\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\ConsoleApp1_User.exe
+C:\Users\User\Desktop\навчання 3курс\Домашні роботи\Користувачі які заповнюються та записуються в файлC#\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\ConsoleApp1_User.pdb
+C:\Users\User\Desktop\навчання 3курс\Домашні роботи\Користувачі які заповнюються та записуються в файлC#\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\навчання 3курс\Домашні роботи\Користувачі які заповнюються та записуються в файлC#\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\User\Desktop\навчання 3курс\Домашні роботи\Користувачі які заповнюються та записуються в файлC#\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\SQLite-net.dll
+C:\Users\User\Desktop\навчання 3курс\Домашні роботи\Користувачі які заповнюються та записуються в файлC#\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\User\Desktop\навчання 3курс\Домашні роботи\Користувачі які заповнюються та записуються в файлC#\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\User\Desktop\навчання 3курс\Домашні роботи\Користувачі які заповнюються та записуються в файлC#\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\User\Desktop\навчання 3курс\Домашні роботи\Користувачі які заповнюються та записуються в файлC#\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\User\Desktop\навчання 3курс\Домашні роботи\Користувачі які заповнюються та записуються в файлC#\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\User\Desktop\навчання 3курс\Домашні роботи\Користувачі які заповнюються та записуються в файлC#\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\навчання 3курс\Домашні роботи\Користувачі які заповнюються та записуються в файлC#\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\навчання 3курс\Домашні роботи\Користувачі які заповнюються та записуються в файлC#\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\навчання 3курс\Домашні роботи\Користувачі які заповнюються та записуються в файлC#\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\навчання 3курс\Домашні роботи\Користувачі які заповнюються та записуються в файлC#\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\навчання 3курс\Домашні роботи\Користувачі які заповнюються та записуються в файлC#\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\System.Text.Json.dll
+C:\Users\User\Desktop\навчання 3курс\Домашні роботи\Користувачі які заповнюються та записуються в файлC#\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\навчання 3курс\Домашні роботи\Користувачі які заповнюються та записуються в файлC#\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Desktop\навчання 3курс\Домашні роботи\Користувачі які заповнюються та записуються в файлC#\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\навчання 3курс\Домашні роботи\Користувачі які заповнюються та записуються в файлC#\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\User\Desktop\навчання 3курс\Домашні роботи\Користувачі які заповнюються та записуються в файлC#\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\SQLite-net.xml
+C:\Users\User\Desktop\навчання 3курс\Домашні роботи\Користувачі які заповнюються та записуються в файлC#\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\навчання 3курс\Домашні роботи\Користувачі які заповнюються та записуються в файлC#\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\навчання 3курс\Домашні роботи\Користувачі які заповнюються та записуються в файлC#\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\навчання 3курс\Домашні роботи\Користувачі які заповнюються та записуються в файлC#\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\навчання 3курс\Домашні роботи\Користувачі які заповнюються та записуються в файлC#\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\Desktop\навчання 3курс\Домашні роботи\Користувачі які заповнюються та записуються в файлC#\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\System.Text.Json.xml
+C:\Users\User\Desktop\навчання 3курс\Домашні роботи\Користувачі які заповнюються та записуються в файлC#\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\навчання 3курс\Домашні роботи\Користувачі які заповнюються та записуються в файлC#\ConsoleApp1_User\ConsoleApp1_User\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Desktop\навчання 3курс\Домашні роботи\Користувачі які заповнюються та записуються в файлC#\ConsoleApp1_User\ConsoleApp1_User\obj\Debug\ConsoleApp1_User.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\навчання 3курс\Домашні роботи\Користувачі які заповнюються та записуються в файлC#\ConsoleApp1_User\ConsoleApp1_User\obj\Debug\ConsoleApp1_User.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\навчання 3курс\Домашні роботи\Користувачі які заповнюються та записуються в файлC#\ConsoleApp1_User\ConsoleApp1_User\obj\Debug\ConsoleApp1_User.exe.config
+C:\Users\User\Desktop\навчання 3курс\Домашні роботи\Користувачі які заповнюються та записуються в файлC#\ConsoleApp1_User\ConsoleApp1_User\obj\Debug\ConsoleApp1_User.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\навчання 3курс\Домашні роботи\Користувачі які заповнюються та записуються в файлC#\ConsoleApp1_User\ConsoleApp1_User\obj\Debug\ConsoleApp1_User.csproj.CopyComplete
+C:\Users\User\Desktop\навчання 3курс\Домашні роботи\Користувачі які заповнюються та записуються в файлC#\ConsoleApp1_User\ConsoleApp1_User\obj\Debug\ConsoleApp1_User.exe
+C:\Users\User\Desktop\навчання 3курс\Домашні роботи\Користувачі які заповнюються та записуються в файлC#\ConsoleApp1_User\ConsoleApp1_User\obj\Debug\ConsoleApp1_User.pdb
